@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Timothy 👋
 
 <!--
 **krayterzoff219/krayterzoff219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a new software developer. I'm currently learning about full-stack development, and am excited to get started!
+I am a Junior Full-stack Software Developer. My primary language is Java, but I also have experience with Vue.js, JavaScript, HTML, CSS, and SQL. Consistently looking for opportunities to expand my knowledge base.
